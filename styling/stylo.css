@@ -1,0 +1,25 @@
+* {
+    font-family: sans-serif;
+}
+h1 {
+    background-color: black;
+    color: white;
+    
+}
+h1 span {
+
+    color: cyan;
+
+}
+h2 {
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+h3 {
+    background-color: rgb(136, 207, 249);
+    color: rebeccapurple;
+    text-align: end;
+    text-decoration: underline;
+}
